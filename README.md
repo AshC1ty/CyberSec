@@ -1,6 +1,6 @@
-# 🛠️ Cybersecurity Tools Collection
+# 🛠️ Cybersecurity Tools
 
-Welcome to the Cybersecurity Tools Collection repository! This repository contains a collection of powerful tools designed to assist in various cybersecurity tasks. Each tool is tailored to handle specific security challenges and can be a valuable addition to your cybersecurity toolkit.
+Welcome to my Cybersecurity Tools repo! Contains a collection of tools designed to assist in various cybersecurity tasks. Each tool is tailored to handle specific security challenges and can be a valuable addition to your cybersecurity toolkit.
 
 ## 🌟 Projects Included
 
