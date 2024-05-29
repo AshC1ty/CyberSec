@@ -31,20 +31,6 @@ An intelligent spam detection tool that uses machine learning to identify and fi
 ### 09. Zip Cracker 🔐
 A tool designed to crack password-protected zip files. It's useful for forensic analysis and recovering lost passwords for zip archives.
 
-## 📥 Installation
-
-To install and run any of these tools, follow these steps:
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/AshC1ty/cybersecurity-tools.git
-    ```
-2. Navigate to the specific tool's directory:
-    ```bash
-    cd cybersecurity-tools/Tool_Name
-    ```
-3. Run the corresponding file using python
-
 ## 🤝 Contributing
 
 I welcome contributions from the community! If you have ideas for new features or have found bugs, please open an issue or submit a pull request.
