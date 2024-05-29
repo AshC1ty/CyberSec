@@ -2,7 +2,7 @@ import hashlib
 
 def crackHash(inputPass):
     try:
-        passFile=open("wordlist.txt","r") #wordlist is the file which contains common passwords
+        passFile=open("pswdlist.txt","r") #wordlist is the file which contains common passwords
     except:
         print("No file found")
     
