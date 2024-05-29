@@ -4,28 +4,31 @@ Welcome to the Cybersecurity Tools Collection repository! This repository contai
 
 ## 🌟 Projects Included
 
-### 1. Dictionary Attack 🔍
+### 01. Dictionary Attack 🔍
 A tool designed to perform dictionary attacks on passwords using a predefined list of potential passwords. It's a fast and effective method to crack weak passwords.
 
-### 2. File Recovery 🗄️
+### 02. File Recovery 🗄️
 A robust file recovery tool that helps in retrieving lost or deleted files from storage devices.
 
-### 3. FTP Anonymous Login 🚪
+### 03. FTP Anonymous Login 🚪
 This tool checks for FTP servers that allow anonymous logins. It's useful for identifying potential security vulnerabilities in FTP servers.
 
-### 4. FTP Brute Force 🔓
+### 04. FTP Brute Force 🔓
 A powerful brute force attack tool specifically for FTP servers. It attempts multiple username and password combinations to gain unauthorized access.
 
-### 5. Network Scanning 🌐
+### 05. Network Scanning 🌐
 A network scanning tool that discovers the top ports for a given server
 
-### 6. Network Tracing Map 🗺️
+### 06. Network Tracing Map 🗺️
 Visualize the path data takes through the network with this network tracing tool. It helps in identifying routing issues and understanding the source and destination locations of your connections
 
-### 7. Port Scanner 📡
+### 07. Port Scanner 📡
 A fast and efficient port scanning tool that identifies open ports on a target system. It's crucial for detecting potential entry points for attackers.
 
-### 8. Zip Cracker 🔐
+### 08. Spam Detection 📧
+An intelligent spam detection tool that uses machine learning to identify and filter out spam emails using supervised learning
+
+### 09. Zip Cracker 🔐
 A tool designed to crack password-protected zip files. It's useful for forensic analysis and recovering lost passwords for zip archives.
 
 ## 📥 Installation
