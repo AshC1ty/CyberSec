@@ -36,5 +36,4 @@ A tool designed to crack password-protected zip files. It's useful for forensic 
 I welcome contributions from the community! If you have ideas for new features or have found bugs, please open an issue or submit a pull request.
 
 ---
-
-Made with ❤️ by [AshC1ty](https://github.com/AshC1ty)
+For more cool projects , visit [AshC1ty](https://github.com/AshC1ty) 🔥
